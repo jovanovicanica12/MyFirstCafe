@@ -1,0 +1,17 @@
+# Gradle / build outputs
+.gradle/
+build/
+app/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Local machine config
+local.properties
+
+# Kotlin
+.kotlin/
+
+# macOS
+.DS_Store
